@@ -1,3 +1,4 @@
+#Created by Gor Hakobyan / 17/10/2021 / 12:55:01
 import tkinter as tk
 from tkinter import LEFT, RIGHT, Button, PhotoImage
 import tkinter.messagebox as msg
